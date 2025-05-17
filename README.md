@@ -1,7 +1,6 @@
 # Exp3:Correlation and regression for data analysis
 # Name: POTHU SUMANTH
 # Referance number:212224240115
-# Date:26.10.2024
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
