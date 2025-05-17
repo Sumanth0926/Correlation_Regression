@@ -1,6 +1,6 @@
 # Exp3:Correlation and regression for data analysis
-# Name:Ragasudha R
-# Referance number:24900684
+# Name: POTHU SUMANTH
+# Referance number:212224240115
 # Date:26.10.2024
 # Aim : 
 
